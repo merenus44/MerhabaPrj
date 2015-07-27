@@ -9,6 +9,7 @@ public class MerhabaPrj {
      */
     public static void main(String[] args) {
         System.out.println("Merhaba Murat");
+        System.out.println(new java.util.Date());
     }
     
 }
